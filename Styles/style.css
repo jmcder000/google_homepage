@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#logo{
+    display: block;
+    width: 200px;
+    margin: 0 auto;
+}
+form{
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.searchBar{
+    width: 400;
+    display:block;
+    margin: 0 auto;
+}
